@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="CodeIgniter Application Test Suite" tests="3" assertions="3" failures="1" errors="0" time="11.017681">
-    <testsuite name="Mensageiro_test" file="D:\wamp64\www\MensageiroTotalVoice\application\tests\controllers\Mensageiro_test.php" tests="3" assertions="3" failures="1" errors="0" time="11.017681">
-      <testcase name="test_index" class="Mensageiro_test" file="D:\wamp64\www\MensageiroTotalVoice\application\tests\controllers\Mensageiro_test.php" line="6" assertions="1" time="0.010552"/>
-      <testcase name="test_mensagem_falha" class="Mensageiro_test" file="D:\wamp64\www\MensageiroTotalVoice\application\tests\controllers\Mensageiro_test.php" line="12" assertions="1" time="5.396620"/>
-      <testcase name="test_mensagem_sucesso" class="Mensageiro_test" file="D:\wamp64\www\MensageiroTotalVoice\application\tests\controllers\Mensageiro_test.php" line="25" assertions="1" time="5.610509">
+  <testsuite name="CodeIgniter Application Test Suite" tests="3" assertions="3" failures="1" errors="0" time="10.690338">
+    <testsuite name="Mensageiro_test" file="D:\wamp64\www\MensageiroTotalVoice\application\tests\controllers\Mensageiro_test.php" tests="3" assertions="3" failures="1" errors="0" time="10.690338">
+      <testcase name="test_index" class="Mensageiro_test" file="D:\wamp64\www\MensageiroTotalVoice\application\tests\controllers\Mensageiro_test.php" line="6" assertions="1" time="0.009201"/>
+      <testcase name="test_mensagem_falha" class="Mensageiro_test" file="D:\wamp64\www\MensageiroTotalVoice\application\tests\controllers\Mensageiro_test.php" line="12" assertions="1" time="5.103044"/>
+      <testcase name="test_mensagem_sucesso" class="Mensageiro_test" file="D:\wamp64\www\MensageiroTotalVoice\application\tests\controllers\Mensageiro_test.php" line="25" assertions="1" time="5.578093">
         <failure type="PHPUnit_Framework_ExpectationFailedException">Mensageiro_test::test_mensagem_sucesso
 Failed asserting that '&lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"&gt;
 &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"&gt;
@@ -30,7 +30,7 @@ a:hover, a:visited, a:link, a:active {
 				&lt;h5&gt;&lt;b&gt;Detalhes:&lt;/b&gt;&lt;/h5&gt;&lt;br&gt;
 
 				HTTP/1.1 403 Forbidden
-Date: Sun, 28 May 2017 21:06:32 GMT
+Date: Sun, 28 May 2017 23:28:09 GMT
 Server: Apache
 Access-Control-Allow-Origin: *
 Content-Length: 184
