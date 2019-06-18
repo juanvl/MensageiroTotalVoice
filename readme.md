@@ -1,21 +1,17 @@
 # Mensageiro SMS TotalVoice
 
-Este é um projeto de teste para a empresa TotalVoice.
-
-Um sistema simples para envios de mensagem SMS, que utiliza créditos de uma conta TotalVoice:
+Um sistema simples para envios de mensagem SMS, que utiliza crÃ©ditos de uma conta TotalVoice:
 
 https://api.evoline.com.br/painel
 
 O sistema requer o Access-Token da conta cadastrada.
 
-Depois é só inserir o número de telefone e mensagem que deseja enviar :)
+Depois Ã© sÃ³ inserir o nÃºmero de telefone e mensagem que deseja enviar :)
 
 ## PHP Unit
 
-Para realizar testes com o phpunit, é necessário tê-lo instalado na máquina.
+Para realizar testes com o phpunit, Ã© necessÃ¡rio tÃª-lo instalado na mÃ¡quina.
 
 https://phpunit.de/
 
-Depois, por linha de comando ir até a pasta application/tests e executar o comando "phpunit". O sistema irá executar todos os testes que encontrar dentro desse diretório. 
-
-(Existem 3 testes escritos dentro de application/tests/controllers/Mensageiro_test.php)
+Depois, por linha de comando ir atÃ© a pasta application/tests e executar o comando "phpunit". O sistema irÃ¡ executar todos os testes que encontrar dentro desse diretÃ³rio.
